@@ -1,0 +1,2 @@
+1;false;falla el teclado 
+2;true;sin conexion a internet 
